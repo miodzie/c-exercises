@@ -3,6 +3,8 @@
 #include <string.h>
 #include "stack.c"
 
+#define MYCONSTANT 1234
+
 struct point {
   int x;
   int y;
