@@ -1,3 +1,6 @@
+// Exercise 1-4
+// Write a program to print the corresponding Celsius to Rahrenheit table.
+
 #include <stdio.h>
 
 int main() {
